@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "송영호 차장 입니다."
 date:   2015-04-20 08:43:59
-author: Ben Centra
-categories: Jekyll
+author: 송영호
+categories: 송영호
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Dummy Post 6"
-date:   2015-04-19 08:43:59
-author: Ben Centra
-categories: Dummy
-tags: lorem ipsum
+title:  "김현진 입니다."
+date:   2022-01-03 09:30:00
+author: 김현진
+categories: 김현진
+tags: spring java
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.

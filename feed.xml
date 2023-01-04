@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yeoboya Tech Blog</title>
+    <description>Yeoboya tech blog with dalla.</description>
+    <link>https://tech-yeoboya.github.io//</link>
+    <atom:link href="https://tech-yeoboya.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 04 Jan 2023 11:17:09 +0900</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2023 11:17:09 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>김현진 입니다.</title>
+        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
+        <pubDate>Mon, 03 Jan 2022 18:30:00 +0900</pubDate>
+        <link>https://tech-yeoboya.github.io//%EA%B9%80%ED%98%84%EC%A7%84/2022/01/03/dummy6.html</link>
+        <guid isPermaLink="true">https://tech-yeoboya.github.io//%EA%B9%80%ED%98%84%EC%A7%84/2022/01/03/dummy6.html</guid>
+        
+        <category>spring</category>
+        
+        <category>java</category>
+        
+        
+        <category>김현진</category>
+        
+      </item>
+    
+      <item>
+        <title>송영호 차장 입니다.</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many...</description>
+        <pubDate>Mon, 20 Apr 2015 17:43:59 +0900</pubDate>
+        <link>https://tech-yeoboya.github.io//%EC%86%A1%EC%98%81%ED%98%B8/2015/04/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://tech-yeoboya.github.io//%EC%86%A1%EC%98%81%ED%98%B8/2015/04/20/welcome-to-jekyll.html</guid>
+        
+        <category>jekyll</category>
+        
+        <category>welcome</category>
+        
+        
+        <category>송영호</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many...</description>
+        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
+        <link>https://tech-yeoboya.github.io//jekyll/2015/04/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://tech-yeoboya.github.io//jekyll/2015/04/19/welcome-to-jekyll.html</guid>
+        
+        <category>jekyll</category>
+        
+        <category>welcome</category>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Post 6</title>
+        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
+        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
+        <link>https://tech-yeoboya.github.io//dummy/2015/04/19/dummy6.html</link>
+        <guid isPermaLink="true">https://tech-yeoboya.github.io//dummy/2015/04/19/dummy6.html</guid>
+        
+        <category>lorem</category>
+        
+        <category>ipsum</category>
+        
+        
+        <category>Dummy</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Post 5</title>
+        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
+        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
+        <link>https://tech-yeoboya.github.io//dummy/2015/04/19/dummy5.html</link>
+        <guid isPermaLink="true">https://tech-yeoboya.github.io//dummy/2015/04/19/dummy5.html</guid>
+        
+        <category>lorem</category>
+        
+        
+        <category>Dummy</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Post 4</title>
+        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
+        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
+        <link>https://tech-yeoboya.github.io//dummy/2015/04/19/dummy4.html</link>
+        <guid isPermaLink="true">https://tech-yeoboya.github.io//dummy/2015/04/19/dummy4.html</guid>
+        
+        <category>ipsum</category>
+        
+        
+        <category>Dummy</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Post 3</title>
+        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
+        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
+        <link>https://tech-yeoboya.github.io//dummy/2015/04/19/dummy3.html</link>
+        <guid isPermaLink="true">https://tech-yeoboya.github.io//dummy/2015/04/19/dummy3.html</guid>
+        
+        
+        <category>Dummy</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Post 2</title>
+        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
+        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
+        <link>https://tech-yeoboya.github.io//dummy/2015/04/19/dummy2.html</link>
+        <guid isPermaLink="true">https://tech-yeoboya.github.io//dummy/2015/04/19/dummy2.html</guid>
+        
+        
+        <category>Dummy</category>
+        
+      </item>
+    
+  </channel>
+</rss>
